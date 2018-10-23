@@ -3,7 +3,12 @@ namespace Semdevops\Authfile\Controllers;
 
 use Illuminate\Http\Request;
 use Storage;
-
+/**
+ * TODO :
+ * - Download from disk
+ * - Default disk config
+ * - Optional disk paramter in request
+ */
 class AuthfileController
 {
 
