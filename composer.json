@@ -1,0 +1,17 @@
+{
+    "name": "semdevops/authfile",
+    "description": "provide image/video file for authorized users",
+    "authors": [
+        {
+            "name": "saran",
+            "email": "saran.devops@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Semdevops\\Authfile\\": "src/"
+        }
+    }
+}
