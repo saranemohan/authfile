@@ -8,4 +8,4 @@ composer require semdevops/authfile
 
 Ussage
 
-<img src="{{route('file',['name'=>'path/test.jpeg'])}}">
+src="{{route('file',['name'=>'path/test.jpeg'])}}"
